@@ -21,7 +21,7 @@
 title: Erik Kristofer Anderson
 email: erik@erikkristoferanderson.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Professional author and editor specializing in science fiction with scientific expertise. Armed with an MS in Chemistry and diverse experience as a science writer, data engineer, and tutor, I craft compelling narratives grounded in scientific accuracy. Whether developing original sci-fi stories or editing manuscripts for fellow authors, I bridge the gap between imagination and plausibility. Explore my writing portfolio, editorial services, and insights on the intersection of science and storytelling.
+  Author and editor specializing in science fiction.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://erikkristoferanderson.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  erikkristoferanderson
